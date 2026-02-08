@@ -45,7 +45,7 @@
         <price>0</price>
         <currencyId>RUB</currencyId>
         <categoryId>1</categoryId>
-        <picture><picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/cargo.png</picture></picture>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/cargo.png</picture>
         <description>Коммерческие партии и опт. Таможенное оформление под ключ. Надежная логистика.</description>
         <collectionId>col_cargo_service</collectionId>
       </offer>
