@@ -1,0 +1,1413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2026-02-07T16:00:00">
+  <shop>
+    <name>SanktionGo</name>
+    <company>SanktionGo Доставка товаров</company>
+    <url>https://sanktiongo.com/</url>
+    <currencies>
+      <currency id="RUB" rate="1" />
+    </currencies>
+    <categories>
+      <category id="1">Услуги байера и Доставка</category>
+      <category id="2">Автозапчасти</category>
+      <category id="3">Электроника и Техника</category>
+      <category id="4">Одежда и Обувь</category>
+      <category id="5">Красота и Здоровье</category>
+      <category id="6">Дом и Хобби</category>
+    </categories>
+    <offers>
+      <offer id="service_buyer_1" available="true">
+        <name>Услуги байера в США и Европе. Выкуп за 1 час</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/delivery.png</picture>
+        <description>Выкупаем товары по вашей ссылке. Оплата рублевой картой. Доставка в РФ под ключ.</description>
+        <collectionId>col_buyer_service</collectionId>
+      </offer>
+      
+      <offer id="service_delivery_1" available="true">
+        <name>Доставка товаров из США и Европы в Россию</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/delivery2.png</picture>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/delivery3.png</picture>
+        <description>Просто пришлите ссылку на товар. Мы выкупим, оформим и привезем. Надежно.</description>
+        <collectionId>col_delivery_service</collectionId>
+      </offer>
+
+      <offer id="service_cargo_1" available="true">
+        <name>Карго доставка сборных грузов и опта из США и ЕС</name>
+        <url>https://sanktiongo.com/b2b/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture><picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/cargo.png</picture></picture>
+        <description>Коммерческие партии и опт. Таможенное оформление под ключ. Надежная логистика.</description>
+        <collectionId>col_cargo_service</collectionId>
+      </offer>
+
+      <offer id="marketplace_amazon_1" available="true">
+        <name>Выкуп с Amazon США и Европы. Доставка в РФ</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/amazon.png</picture>
+        <description>Любые товары с Amazon. Пришлите ссылку — мы доставим. Таможня включена.</description>
+        <collectionId>col_amazon_buy</collectionId>
+      </offer>
+
+      <offer id="marketplace_ebay_1" available="true">
+        <name>Доставка с eBay США и Германии в Россию</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/ebay.png</picture>
+        <description>Аукционы и товары buy it now. Выкуп и проверка товара. Надежная упаковка.</description>
+        <collectionId>col_ebay_delivery</collectionId>
+      </offer>
+
+
+      <offer id="marketplace_walmart_1" available="true">
+        <name>Товары из Walmart США с доставкой в Россию</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/walmart.png</picture>
+        <description>Электроника, дом, игрушки. Выкуп из Walmart по ссылке. Быстрая логистика.</description>
+        <collectionId>col_walmart_usa</collectionId>
+      </offer>
+
+      <offer id="auto_bmw_1" available="true">
+        <name>Оригинальные автозапчасти BMW из ЕС под заказ</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/autoparts2.png</picture>
+        <description>Детали из Германии. Скиньте VIN или ссылку. Доставка в РФ.</description>
+        <collectionId>col_auto_bmw</collectionId>
+      </offer>
+
+      <offer id="auto_carparts_1" available="true">
+        <name>Запчасти с CarParts.com. Доставка из США</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/autoparts.png</picture>
+        <description>Кузовные детали и оптика с CarParts. Пришлите ссылку — мы всё привезем.</description>
+        <collectionId>col_carparts_usa</collectionId>
+      </offer>
+
+      <offer id="auto_usa_gen_1" available="true">
+        <name>Запчасти для американских авто с доставкой</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/autopartsusa.png</picture>
+        <description>Детали из США для Jeep, Ford, Dodge. Привезем по вашей ссылке. Оригинал.</description>
+        <collectionId>col_auto_usa_gen</collectionId>
+      </offer>
+
+      <offer id="electro_apple_1" available="true">
+        <name>iPhone и MacBook из США. Выгодно</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/apple.png</picture>
+        <description>Техника Apple из Америки. Скиньте ссылку — выкупим и привезем.</description>
+        <collectionId>col_electro_apple</collectionId>
+      </offer>
+
+      <offer id="electro_bestbuy_1" available="true">
+        <name>Электроника из BestBuy с доставкой в РФ</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/bestbuy.png</picture>
+        <description>Ноутбуки, камеры, гаджеты из BestBuy. Выкуп по ссылке. Страховка груза.</description>
+        <collectionId>col_bestbuy_electro</collectionId>
+      </offer>
+
+      <offer id="electro_lenovo_1" available="true">
+        <name>Ноутбуки Lenovo из Китая и США. Заказ</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/lenovo.png</picture>
+        <description>ThinkPad и Legion напрямую с завода. Дешевле, чем в РФ. Доставка под ключ.</description>
+        <collectionId>col_lenovo_laptops</collectionId>
+      </offer>
+      
+      <offer id="electro_thomann_1" available="true">
+        <name>Музыкальное оборудование Thomann.de в РФ</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/thomann.png</picture>
+        <description>Гитары, синтезаторы, звук. Выкуп с Thomann. Надежная упаковка для хрупкого.</description>
+        <collectionId>col_thomann_music</collectionId>
+      </offer>
+
+       <offer id="electro_dyson_1" available="true">
+        <name>Оригинальная техника Dyson из Европы. Заказ</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/dyson.png</picture>
+        <description>Стайлеры и фены Dyson. Дешевле, чем в РФ. Пришлите ссылку — доставим на дом.</description>
+        <collectionId>col_dyson_orig</collectionId>
+      </offer>
+
+      <offer id="cloth_nike_1" available="true">
+        <name>Кроссовки и одежда Nike. Оригинал</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/nike.png</picture>
+        <description>Выкуп с Nike. Проверка на подлинность. Доставка прямо из США.</description>
+        <collectionId>col_nike_dewu</collectionId>
+      </offer>
+
+      <offer id="cloth_macys_1" available="true">
+        <name>Одежда из Macy's США с доставкой в Россию</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/macys.png</picture>
+        <description>Бренды Calvin Klein, Ralph Lauren из Macy's. Скиньте ссылку — мы привезем.</description>
+        <collectionId>col_macys_usa</collectionId>
+      </offer>
+
+      <offer id="cloth_tommy_1" available="true">
+        <name>Одежда Tommy Hilfiger из США. Оригинал</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/tommy.png</picture>
+        <description>Заказывайте Tommy Hilfiger на оф. сайте США. Выкуп и доставка в РФ.</description>
+        <collectionId>col_tommy_hilfiger</collectionId>
+      </offer>
+
+      <offer id="cloth_stockx_1" available="true">
+        <name>Лимитированные кроссовки StockX. Доставка</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/stockx.png</picture>
+        <description>Yeezy, Jordan, Supreme с площадки StockX. Гарантия аутентичности.</description>
+        <collectionId>col_stockx_limited</collectionId>
+      </offer>
+
+      <offer id="cloth_zara_massimo_1" available="true">
+        <name>Одежда Zara и Massimo Dutti с доставкой в РФ</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/zara.png</picture>
+        <description>Вернем любимые бренды! Выбирайте на евро-сайтах, кидайте ссылку — мы привезем.</description>
+        <collectionId>col_zara_massimo</collectionId>
+      </offer>
+      
+      <offer id="cloth_farfetch_1" available="true">
+        <name>Брендовая одежда с Farfetch и Yoox в Россию</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/farfetch.png</picture>
+        <description>Люкс и премиум бренды. Выкуп и доставка из Европы. Просто пришлите ссылку.</description>
+        <collectionId>col_farfetch_yoox</collectionId>
+      </offer>
+
+      <offer id="beauty_skinstore_1" available="true">
+        <name>Косметика SkinStore из США. Выкуп и доставка</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/skinstore.png</picture>
+        <description>Проф. уход за кожей. SkinCeuticals, Obagi. Пришлите ссылку — мы доставим.</description>
+        <collectionId>col_skinstore_beauty</collectionId>
+      </offer>
+
+      <offer id="health_iherb_1" available="true">
+        <name>Витамины и БАДы из iHerb США в Россию</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/iherb.png</picture>
+        <description>iHerb недоступен? Мы привезем! Скидывайте ссылки на корзину. Оригинал.</description>
+        <collectionId>col_iherb_vitamins</collectionId>
+      </offer>
+      
+      <offer id="beauty_sephora_1" available="true">
+        <name>Косметика Sephora и Cult Beauty. Заказ в РФ</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/sephora.png</picture>
+        <description>Любимая косметика из Европы и США. Выкуп по ссылке. Бережная доставка.</description>
+        <collectionId>col_sephora_beauty</collectionId>
+      </offer>
+
+      <offer id="home_ikea_1" available="true">
+        <name>Товары IKEA из Европы. Доставка в РФ</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/ikea.png</picture>
+        <description>Текстиль, декор, посуда IKEA. Выбирайте на сайте ЕС, присылайте ссылку.</description>
+        <collectionId>col_ikea_home</collectionId>
+      </offer>
+
+      <offer id="hobby_lego_1" available="true">
+        <name>Конструкторы LEGO. Новинки из Европы и США</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/lego.png</picture>
+        <description>Эксклюзивные наборы LEGO. Дешевле, чем у перекупов. Доставка по ссылке.</description>
+        <collectionId>col_lego_sets</collectionId>
+      </offer>
+
+      <offer id="hobby_etsy_1" available="true">
+        <name>Уникальные товары с Etsy. Доставка в Россию</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/etsy.png</picture>
+        <description>Винтаж и хендмейд с Etsy. Оплата за рубеж и доставка посылок в РФ.</description>
+        <collectionId>col_etsy_handmade</collectionId>
+      </offer>
+
+      <offer id="home_bonanza_1" available="true">
+        <name>Покупки на Bonanza. Доставка из США</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/bonanza.png</picture>
+        <description>Редкие товары для дома и коллекционирования с Bonanza. Выкуп по ссылке.</description>
+        <collectionId>col_bonanza_market</collectionId>
+      </offer>
+
+      <offer id="cloth_newbalance_1" available="true">
+        <name>Кроссовки New Balance из США. Оригинал 100%</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/newbalance.png</picture>
+        <description>Легендарные модели 530, 990, 2002R. Выкуп с официального сайта США.</description>
+        <collectionId>col_newbalance_usa</collectionId>
+      </offer>
+
+      <offer id="cloth_stoneisland_1" available="true">
+        <name>Одежда Stone Island из Европы. Оригинал</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/stoneisland.png</picture>
+        <description>Куртки и свитшоты с патчем Stone Island. Выкуп из Италии. Доставка в РФ.</description>
+        <collectionId>col_stoneisland_eu</collectionId>
+      </offer>
+
+      <offer id="cloth_adidas_1" available="true">
+        <name>Кроссовки Adidas из Германии. Samba и Gazelle</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/adidas.png</picture>
+        <description>Классика и новинки Adidas. Заказ с официального сайта. Доставка под ключ.</description>
+        <collectionId>col_adidas_de</collectionId>
+      </offer>
+
+      <offer id="cloth_fendi_1" available="true">
+        <name>Сумки и одежда Fendi из Италии. Люкс</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/fendi.png</picture>
+        <description>Новые коллекции Fendi. Выкуп из бутиков Европы. Надежная доставка в Россию.</description>
+        <collectionId>col_fendi_it</collectionId>
+      </offer>
+
+      <offer id="cloth_gucci_1" available="true">
+        <name>Одежда и аксессуары Gucci. Оригинал из ЕС</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/gucci.png</picture>
+        <description>Сумки, ремни и обувь Gucci. Полное сопровождение выкупа. Доставка в РФ.</description>
+        <collectionId>col_gucci_it</collectionId>
+      </offer>
+
+      <offer id="cloth_asos_1" available="true">
+        <name>Одежда от ASOS. Доставка в Россию</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/asos.png</picture>
+        <description>Заказывайте любые вещи от ASOS. Выкуп и быстрая доставка посылок.</description>
+        <collectionId>col_asos_fashion</collectionId>
+      </offer>
+
+      <offer id="cloth_puma_1" available="true">
+        <name>Кроссовки и одежда PUMA. Оригинал</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/puma.png</picture>
+        <description>Новые коллекции PUMA из Европы. Скиньте ссылку — мы привезем.</description>
+        <collectionId>col_puma_sport</collectionId>
+      </offer>
+
+      <offer id="cloth_timberland_1" available="true">
+        <name>Ботинки Timberland из США. Оригинал</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/timberland.png</picture>
+        <description>Классические желтые ботинки Timberland. Выкуп с официального сайта.</description>
+        <collectionId>col_timberland_boots</collectionId>
+      </offer>
+
+      <offer id="cloth_levis_1" available="true">
+        <name>Джинсы Levi's из США. Настоящий деним</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/levi.png</picture>
+        <description>Легендарные 501-е и другие модели Levi's. Дешевле, чем в РФ.</description>
+        <collectionId>col_levis_jeans</collectionId>
+      </offer>
+
+      <offer id="cloth_lacoste_1" available="true">
+        <name>Поло и одежда Lacoste. Заказ из Европы</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/lacoste.png</picture>
+        <description>Оригинальное поло Lacoste. Новые коллекции. Доставка в Россию.</description>
+        <collectionId>col_lacoste_polo</collectionId>
+      </offer>
+
+      <offer id="cloth_ck_underwear_1" available="true">
+        <name>Белье и одежда Calvin Klein из США</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/calvinklein.png</picture>
+        <description>Нижнее белье и джинсы Calvin Klein. Выгодно. Заказ по ссылке.</description>
+        <collectionId>col_ck_underwear</collectionId>
+      </offer>
+
+      <offer id="cloth_ralphlauren_1" available="true">
+        <name>Polo Ralph Lauren. Одежда из США</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/ralph.png</picture>
+        <description>Поло, свитеры и рубашки Ralph Lauren. Премиум качество. Доставка.</description>
+        <collectionId>col_ralph_lauren</collectionId>
+      </offer>
+
+      <offer id="cloth_mango_1" available="true">
+        <name>Одежда Mango из Испании. Новинки</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/mango.png</picture>
+        <description>Платья и костюмы Mango. Европейский ассортимент. Доставка в РФ.</description>
+        <collectionId>col_mango_fashion</collectionId>
+      </offer>
+
+      <offer id="cloth_boss_1" available="true">
+        <name>Костюмы и одежда Hugo Boss из Германии</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/boss.png</picture>
+        <description>Премиальная мужская одежда Hugo Boss. Пиджаки, брюки. Оригинал.</description>
+        <collectionId>col_hugo_boss</collectionId>
+      </offer>
+
+      <offer id="acc_bags_usa_1" available="true">
+        <name>Сумки Michael Kors и Coach из США</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/kors.png</picture>
+        <description>Брендовые сумки Michael Kors, Coach, Pinko. Аутлеты и новинки.</description>
+        <collectionId>col_bags_usa</collectionId>
+      </offer>
+
+      <offer id="jewel_tiffany_1" available="true">
+        <name>Украшения Tiffany &amp; Co. и Pandora</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/tiffany.png</picture>
+        <description>Оригинальные украшения Tiffany, Bulgari, Pandora. Надежная доставка ценностей.</description>
+        <collectionId>col_jewel_tiffany</collectionId>
+      </offer>
+
+      <offer id="beauty_perfume_1" available="true">
+        <name>Оригинальный парфюм Chanel, Tom Ford, Dior</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/chanel.png</picture>
+        <description>Chanel Chance, Tom Ford Lost Cherry и другие хиты. Только оригинал из дьюти-фри и бутиков.</description>
+        <collectionId>col_perfume_luxury</collectionId>
+      </offer>
+
+      <offer id="beauty_makeup_1" available="true">
+        <name>Косметика Estée Lauder, MAC, Fenty Beauty</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/mac.png</picture>
+        <description>Декоративная косметика и уход. Dior, Clarins. Пришлите ссылку на товар.</description>
+        <collectionId>col_makeup_brands</collectionId>
+      </offer>
+      
+      <offer id="health_orthomol_1" available="true">
+        <name>Витамины Orthomol и аптечная косметика</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/orto.png</picture>
+        <description>Витамины из Германии Orthomol, косметика Vichy и La Roche-Posay.</description>
+        <collectionId>col_health_orthomol</collectionId>
+      </offer>
+
+      <offer id="electro_samsung_1" available="true">
+        <name>Смартфоны Samsung Galaxy. Доставка</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/samsung.png</picture>
+        <description>Новинки Samsung из ОАЭ и США. Выкуп и доставка в Россию.</description>
+        <collectionId>col_samsung_galaxy</collectionId>
+      </offer>
+
+      <offer id="electro_audio_1" available="true">
+        <name>Наушники JBL, Sony и часы Garmin</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/technics.png</picture>
+        <description>Техника JBL, Sony, Garmin. Оригинал. Заказ с Amazon и официальных сайтов.</description>
+        <collectionId>col_audio_garmin</collectionId>
+      </offer>
+
+      <offer id="service_buyer_2" available="true">
+        <name>Оплата зарубежных сервисов и покупок. Байер</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/delivery.png</picture>
+        <description>Поможем оплатить товары и подписки за границей. Карты банков США и ЕС.</description>
+        <collectionId>col_buyer_service_2</collectionId>
+      </offer>
+      <offer id="service_buyer_3" available="true">
+        <name>Шопинг в США и Европе без границ. Выкуп</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/delivery.png</picture>
+        <description>Выбирайте в любых магазинах мира. Скиньте ссылку — мы купим и привезем.</description>
+        <collectionId>col_buyer_service_3</collectionId>
+      </offer>
+
+      <offer id="service_delivery_2" available="true">
+        <name>Пересылка посылок из США и Европы в РФ</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://sanktiongo.com/img/feed/delivery_box_sq.jpg</picture>
+        <description>Ваш личный адрес за рубежом. Консолидация посылок и отправка в Россию.</description>
+        <collectionId>col_delivery_service_2</collectionId>
+      </offer>
+      <offer id="service_delivery_3" available="true">
+        <name>Логистика из Европы и США "под ключ"</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://sanktiongo.com/img/feed/delivery_box_sq.jpg</picture>
+        <description>Бережная доставка товаров. Страховка, таможня, курьер до двери.</description>
+        <collectionId>col_delivery_service_3</collectionId>
+      </offer>
+
+      <offer id="service_cargo_2" available="true">
+        <name>Оптовая доставка товаров из Китая и США</name>
+        <url>https://sanktiongo.com/b2b/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://sanktiongo.com/img/feed/cargo_wholesale_sq.jpg</picture>
+        <description>Для юрлиц и селлеров. Полный пакет документов. Выгодные тарифы на вес.</description>
+        <collectionId>col_cargo_service_2</collectionId>
+      </offer>
+      <offer id="service_cargo_3" available="true">
+        <name>Параллельный импорт. Оборудование и товары</name>
+        <url>https://sanktiongo.com/b2b/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://sanktiongo.com/img/feed/cargo_wholesale_sq.jpg</picture>
+        <description>Везем санкционные товары и коммерческие партии. Без риска на таможне.</description>
+        <collectionId>col_cargo_service_3</collectionId>
+      </offer>
+
+      <offer id="marketplace_amazon_2" available="true">
+        <name>Amazon США: товары которых нет в России</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://sanktiongo.com/img/feed/amazon_buy_sq.jpg</picture>
+        <description>Электроника, книги, одежда с Amazon. Выкуп в 1 клик по ссылке.</description>
+        <collectionId>col_amazon_buy_2</collectionId>
+      </offer>
+      <offer id="marketplace_amazon_3" available="true">
+        <name>Заказ с Amazon с оплатой рублевой картой</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://sanktiongo.com/img/feed/amazon_buy_sq.jpg</picture>
+        <description>Никаких сложностей с оплатой. Мы выкупаем, вы получаете товар в РФ.</description>
+        <collectionId>col_amazon_buy_3</collectionId>
+      </offer>
+
+      <offer id="marketplace_ebay_2" available="true">
+        <name>eBay: запчасти и коллекционные товары</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://sanktiongo.com/img/feed/ebay_delivery_sq.jpg</picture>
+        <description>Участие в аукционах eBay за вас. Доставка редких вещей в Россию.</description>
+        <collectionId>col_ebay_delivery_2</collectionId>
+      </offer>
+      <offer id="marketplace_ebay_3" available="true">
+        <name>Покупки на eBay из Германии и США</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <picture>https://sanktiongo.com/img/feed/ebay_delivery_sq.jpg</picture>
+        <description>Выкуп лотов eBay. Проверка товара на складе перед отправкой.</description>
+        <collectionId>col_ebay_delivery_3</collectionId>
+      </offer>
+
+      <offer id="auto_bmw_2" available="true">
+        <name>Запчасти BMW дешевле дилеров. Из Европы</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://sanktiongo.com/img/feed/auto_bmw_parts_sq.jpg</picture>
+        <description>Прямые поставки из Германии. Оригинал BMW Group. Экономия до 40%.</description>
+        <collectionId>col_auto_bmw_2</collectionId>
+      </offer>
+      <offer id="auto_bmw_3" available="true">
+        <name>BMW: детали кузова и двигателя под заказ</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://sanktiongo.com/img/feed/auto_bmw_parts_sq.jpg</picture>
+        <description>Сложные узлы, оптика, электроника. Подбор по VIN. Надежная упаковка.</description>
+        <collectionId>col_auto_bmw_3</collectionId>
+      </offer>
+
+      <offer id="auto_carparts_2" available="true">
+        <name>Тюнинг и запчасти для авто из США</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://sanktiongo.com/img/feed/carparts_com_sq.jpg</picture>
+        <description>Лифт-комплекты, свет, кузовщина. RockAuto и CarParts. Доставка.</description>
+        <collectionId>col_carparts_usa_2</collectionId>
+      </offer>
+      <offer id="auto_carparts_3" available="true">
+        <name>Запчасти Jeep, Dodge, Ford. Оригинал</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>2</categoryId>
+        <picture>https://sanktiongo.com/img/feed/carparts_com_sq.jpg</picture>
+        <description>Расходники и редкие детали для "американцев". Быстрая авиадоставка.</description>
+        <collectionId>col_carparts_usa_3</collectionId>
+      </offer>
+
+      <offer id="electro_apple_2" available="true">
+        <name>Новинки Apple из США. Предзаказ</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://sanktiongo.com/img/feed/apple_devices_sq.jpg</picture>
+        <description>iPhone, MacBook, Vision Pro. Получите первыми. Доставка за 10-14 дней.</description>
+        <collectionId>col_electro_apple_2</collectionId>
+      </offer>
+      <offer id="electro_apple_3" available="true">
+        <name>Техника Apple дешевле, чем в РФ</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://sanktiongo.com/img/feed/apple_devices_sq.jpg</picture>
+        <description>Покупайте по ценам США. Экономия на курсе. Гарантия оригинала.</description>
+        <collectionId>col_electro_apple_3</collectionId>
+      </offer>
+
+      <offer id="electro_dyson_2" available="true">
+        <name>Dyson Airwrap и стайлеры. Из Европы</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://sanktiongo.com/img/feed/dyson_styler_sq.jpg</picture>
+        <description>Полный комплект насадок. Европейская вилка. Оригинал 100%.</description>
+        <collectionId>col_dyson_orig_2</collectionId>
+      </offer>
+      <offer id="electro_dyson_3" available="true">
+        <name>Техника Dyson с официального сайта</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>3</categoryId>
+        <picture>https://sanktiongo.com/img/feed/dyson_styler_sq.jpg</picture>
+        <description>Пылесосы, фены, выпрямители. Выкуп новинок. Доставка до двери.</description>
+        <collectionId>col_dyson_orig_3</collectionId>
+      </offer>
+
+      <offer id="cloth_nike_2" available="true">
+        <name>Nike Air Jordan и Dunk. Доставка</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://sanktiongo.com/img/feed/poizon_sneakers_sq.jpg</picture>
+        <description>Лимитированные релизы. Выкуп со StockX и Poizon. Оригинал.</description>
+        <collectionId>col_nike_dewu_2</collectionId>
+      </offer>
+      <offer id="cloth_nike_3" available="true">
+        <name>Спортивная одежда Nike из США</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://sanktiongo.com/img/feed/poizon_sneakers_sq.jpg</picture>
+        <description>Новые коллекции, которых нет в РФ. Худи, костюмы, кроссовки.</description>
+        <collectionId>col_nike_dewu_3</collectionId>
+      </offer>
+
+      <offer id="cloth_zara_massimo_2" available="true">
+        <name>ZARA и Massimo Dutti. Вернем бренды!</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://sanktiongo.com/img/feed/zara_massimo_sq.jpg</picture>
+        <description>Заказывайте любимую одежду в Испании и Турции. Мы привезем.</description>
+        <collectionId>col_zara_massimo_2</collectionId>
+      </offer>
+      <offer id="cloth_zara_massimo_3" available="true">
+        <name>Одежда из Европы: ZARA, H&amp;M, Mango</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://sanktiongo.com/img/feed/zara_massimo_sq.jpg</picture>
+        <description>Шопинг как раньше. Выкуп по ссылке. Быстрая логистика в РФ.</description>
+        <collectionId>col_zara_massimo_3</collectionId>
+      </offer>
+
+      <offer id="cloth_tommy_2" available="true">
+        <name>Tommy Hilfiger дешевле, чем в РФ</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://sanktiongo.com/img/feed/tommy_hilfiger_sq.jpg</picture>
+        <description>Покупайте на сейлах в США. Экономия до 50%. Оригинал.</description>
+        <collectionId>col_tommy_hilfiger_2</collectionId>
+      </offer>
+      <offer id="cloth_tommy_3" available="true">
+        <name>Поло и свитера Tommy Hilfiger из США</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>4</categoryId>
+        <picture>https://sanktiongo.com/img/feed/tommy_hilfiger_sq.jpg</picture>
+        <description>Классика американского стиля. Широкий ассортимент. Доставка.</description>
+        <collectionId>col_tommy_hilfiger_3</collectionId>
+      </offer>
+
+      <offer id="health_iherb_2" available="true">
+        <name>iHerb: заказ витаминов в Россию</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://sanktiongo.com/img/feed/iherb_vitamins_sq.jpg</picture>
+        <description>Now Foods, Solgar, Omega-3. Выкупаем вашу корзину iHerb.</description>
+        <collectionId>col_iherb_vitamins_2</collectionId>
+      </offer>
+      <offer id="health_iherb_3" available="true">
+        <name>Спортивное питание и БАДы из США</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://sanktiongo.com/img/feed/iherb_vitamins_sq.jpg</picture>
+        <description>Качественные добавки напрямую из Америки. Без посредников и наценок.</description>
+        <collectionId>col_iherb_vitamins_3</collectionId>
+      </offer>
+
+      <offer id="beauty_sephora_2" available="true">
+        <name>Эксклюзивная косметика из Sephora</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://sanktiongo.com/img/feed/sephora_cosmetics_sq.jpg</picture>
+        <description>Fenty Beauty, Rare Beauty, Tarte. Бренды, ушедшие из РФ. Доставка.</description>
+        <collectionId>col_sephora_beauty_2</collectionId>
+      </offer>
+      <offer id="beauty_sephora_3" available="true">
+        <name>Парфюмерия и макияж из США и ЕС</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>5</categoryId>
+        <picture>https://sanktiongo.com/img/feed/sephora_cosmetics_sq.jpg</picture>
+        <description>Оригинальная косметика. Свежие сроки годности. Бережная упаковка.</description>
+        <collectionId>col_sephora_beauty_3</collectionId>
+      </offer>
+
+      <offer id="home_ikea_2" available="true">
+        <name>Все товары IKEA снова доступны!</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://sanktiongo.com/img/feed/ikea_home_sq.jpg</picture>
+        <description>Акулы, постельное белье, декор. Привезем из европейских IKEA.</description>
+        <collectionId>col_ikea_home_2</collectionId>
+      </offer>
+      <offer id="home_ikea_3" available="true">
+        <name>IKEA: мебель и мелочи для дома</name>
+        <url>https://sanktiongo.com/</url>
+        <price>0</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>6</categoryId>
+        <picture>https://sanktiongo.com/img/feed/ikea_home_sq.jpg</picture>
+        <description>Создайте уют с товарами ИКЕА. Заказ по артикулу или ссылке.</description>
+        <collectionId>col_ikea_home_3</collectionId>
+      </offer>
+    </offers>
+
+    <collections>
+    <collection id="col_asos_fashion">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/asos_fashion_sq.jpg</picture>
+        <name>Одежда от ASOS. Доставка в Россию</name>
+        <description>Заказывайте любые вещи от ASOS. Выкуп и быстрая доставка посылок.</description>
+      </collection>
+
+      <collection id="col_puma_sport">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/puma_sport_sq.jpg</picture>
+        <name>Кроссовки и одежда PUMA. Оригинал</name>
+        <description>Новые коллекции PUMA из Европы. Скиньте ссылку — мы привезем.</description>
+      </collection>
+
+      <collection id="col_timberland_boots">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/timberland_boots_sq.jpg</picture>
+        <name>Ботинки Timberland из США. Оригинал</name>
+        <description>Классические желтые ботинки Timberland. Выкуп с официального сайта.</description>
+      </collection>
+
+      <collection id="col_levis_jeans">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/levis_jeans_sq.jpg</picture>
+        <name>Джинсы Levi's из США. Настоящий деним</name>
+        <description>Легендарные 501-е и другие модели Levi's. Дешевле, чем в РФ.</description>
+      </collection>
+
+      <collection id="col_lacoste_polo">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/lacoste_polo_sq.jpg</picture>
+        <name>Поло и одежда Lacoste. Заказ из Европы</name>
+        <description>Оригинальное поло Lacoste. Новые коллекции. Доставка в Россию.</description>
+      </collection>
+
+      <collection id="col_ck_underwear">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/ck_underwear_sq.jpg</picture>
+        <name>Белье и одежда Calvin Klein из США</name>
+        <description>Нижнее белье и джинсы Calvin Klein. Выгодно. Заказ по ссылке.</description>
+      </collection>
+
+      <collection id="col_ralph_lauren">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/ralph_lauren_sq.jpg</picture>
+        <name>Polo Ralph Lauren. Одежда из США</name>
+        <description>Поло, свитеры и рубашки Ralph Lauren. Премиум качество. Доставка.</description>
+      </collection>
+
+      <collection id="col_mango_fashion">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/mango_fashion_sq.jpg</picture>
+        <name>Одежда Mango из Испании. Новинки</name>
+        <description>Платья и костюмы Mango. Европейский ассортимент. Доставка в РФ.</description>
+      </collection>
+
+      <collection id="col_hugo_boss">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/hugo_boss_sq.jpg</picture>
+        <name>Костюмы и одежда Hugo Boss из Германии</name>
+        <description>Премиальная мужская одежда Hugo Boss. Пиджаки, брюки. Оригинал.</description>
+      </collection>
+
+      <collection id="col_bags_usa">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/bags_mk_coach_sq.jpg</picture>
+        <name>Сумки Michael Kors и Coach из США</name>
+        <description>Брендовые сумки Michael Kors, Coach, Pinko. Аутлеты и новинки.</description>
+      </collection>
+
+      <collection id="col_jewel_tiffany">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/tiffany_pandora_sq.jpg</picture>
+        <name>Украшения Tiffany &amp; Co. и Pandora</name>
+        <description>Оригинальные украшения Tiffany, Bulgari, Pandora. Надежная доставка ценностей.</description>
+      </collection>
+
+      <collection id="col_perfume_luxury">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/perfume_chanel_tf_sq.jpg</picture>
+        <name>Оригинальный парфюм Chanel, Tom Ford, Dior</name>
+        <description>Chanel Chance, Tom Ford Lost Cherry и другие хиты. Только оригинал из дьюти-фри и бутиков.</description>
+      </collection>
+
+      <collection id="col_makeup_brands">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/makeup_brands_sq.jpg</picture>
+        <name>Косметика Estée Lauder, MAC, Fenty Beauty</name>
+        <description>Декоративная косметика и уход. Dior, Clarins. Пришлите ссылку на товар.</description>
+      </collection>
+
+      <collection id="col_health_orthomol">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/orthomol_pharmacy_sq.jpg</picture>
+        <name>Витамины Orthomol и аптечная косметика</name>
+        <description>Витамины из Германии Orthomol, косметика Vichy и La Roche-Posay.</description>
+      </collection>
+
+      <collection id="col_samsung_galaxy">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/samsung_galaxy_sq.jpg</picture>
+        <name>Смартфоны Samsung Galaxy. Доставка</name>
+        <description>Новинки Samsung из ОАЭ и США. Выкуп и доставка в Россию.</description>
+      </collection>
+
+      <collection id="col_audio_garmin">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/audio_garmin_sq.jpg</picture>
+        <name>Наушники JBL, Sony и часы Garmin</name>
+        <description>Техника JBL, Sony, Garmin. Оригинал. Заказ с Amazon и официальных сайтов.</description>
+      </collection>
+
+    <collection id="col_newbalance_usa">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/newbalance_sq.jpg</picture>
+        <name>Кроссовки New Balance из США. Оригинал 100%</name>
+        <description>Легендарные модели 530, 990, 2002R. Выкуп с официального сайта США.</description>
+      </collection>
+
+      <collection id="col_stoneisland_eu">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/stoneisland_sq.jpg</picture>
+        <name>Одежда Stone Island из Европы. Оригинал</name>
+        <description>Куртки и свитшоты с патчем Stone Island. Выкуп из Италии. Доставка в РФ.</description>
+      </collection>
+
+      <collection id="col_adidas_de">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/adidas_orig_sq.jpg</picture>
+        <name>Кроссовки Adidas из Германии. Samba и Gazelle</name>
+        <description>Классика и новинки Adidas. Заказ с официального сайта. Доставка под ключ.</description>
+      </collection>
+
+      <collection id="col_fendi_it">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/fendi_lux_sq.jpg</picture>
+        <name>Сумки и одежда Fendi из Италии. Люкс</name>
+        <description>Новые коллекции Fendi. Выкуп из бутиков Европы. Надежная доставка в Россию.</description>
+      </collection>
+
+      <collection id="col_gucci_it">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/gucci_italy_sq.jpg</picture>
+        <name>Одежда и аксессуары Gucci. Оригинал из ЕС</name>
+        <description>Сумки, ремни и обувь Gucci. Полное сопровождение выкупа. Доставка в РФ.</description>
+      </collection>
+
+      <collection id="col_buyer_service">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/buyer_service_sq.jpg</picture>
+        <name>Услуги байера в США и Европе. Выкуп за 1 час</name>
+        <description>Выкупаем товары по вашей ссылке. Оплата рублевой картой. Доставка в РФ под ключ.</description>
+      </collection>
+
+      <collection id="col_delivery_service">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/delivery_box_sq.jpg</picture>
+        <name>Доставка товаров из США и Европы в Россию</name>
+        <description>Просто пришлите ссылку на товар. Мы выкупим, оформим и привезем. Надежно.</description>
+      </collection>
+
+      <collection id="col_cargo_service">
+        <url>https://sanktiongo.com/b2b/</url>
+        <picture>https://sanktiongo.com/img/feed/cargo_wholesale_sq.jpg</picture>
+        <name>Карго доставка сборных грузов и опта из Китая и США</name>
+        <description>Коммерческие партии и опт. Таможенное оформление под ключ. Надежная логистика.</description>
+      </collection>
+
+      <collection id="col_amazon_buy">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/amazon_buy_sq.jpg</picture>
+        <name>Выкуп с Amazon США и Европы. Доставка в РФ</name>
+        <description>Любые товары с Amazon. Пришлите ссылку — мы доставим. Таможня включена.</description>
+      </collection>
+
+      <collection id="col_ebay_delivery">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/ebay_delivery_sq.jpg</picture>
+        <name>Доставка с eBay США и Германии в Россию</name>
+        <description>Аукционы и товары buy it now. Выкуп и проверка товара. Надежная упаковка.</description>
+      </collection>
+
+      <collection id="col_walmart_usa">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/walmart_usa_sq.jpg</picture>
+        <name>Товары из Walmart США с доставкой в Россию</name>
+        <description>Электроника, дом, игрушки. Выкуп из Walmart по ссылке. Быстрая логистика.</description>
+      </collection>
+
+      <collection id="col_auto_bmw">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/auto_bmw_parts_sq.jpg</picture>
+        <name>Оригинальные автозапчасти BMW из ЕС под заказ</name>
+        <description>Детали из Германии. Скиньте VIN или ссылку. Доставка в РФ.</description>
+      </collection>
+
+      <collection id="col_carparts_usa">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/carparts_com_sq.jpg</picture>
+        <name>Запчасти с CarParts.com. Доставка из США</name>
+        <description>Кузовные детали и оптика с CarParts. Пришлите ссылку — мы всё привезем.</description>
+      </collection>
+
+      <collection id="col_auto_usa_gen">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/auto_usa_parts_sq.jpg</picture>
+        <name>Запчасти для американских авто с доставкой</name>
+        <description>Детали из США для Jeep, Ford, Dodge. Привезем по вашей ссылке. Оригинал.</description>
+      </collection>
+
+      <collection id="col_electro_apple">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/apple_devices_sq.jpg</picture>
+        <name>iPhone и MacBook из США. Выгодно</name>
+        <description>Техника Apple из Америки. Скиньте ссылку — выкупим и привезем.</description>
+      </collection>
+
+      <collection id="col_bestbuy_electro">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/bestbuy_electronics_sq.jpg</picture>
+        <name>Электроника из BestBuy с доставкой в РФ</name>
+        <description>Ноутбуки, камеры, гаджеты из BestBuy. Выкуп по ссылке. Страховка груза.</description>
+      </collection>
+
+      <collection id="col_lenovo_laptops">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/lenovo_laptops_sq.jpg</picture>
+        <name>Ноутбуки Lenovo из Китая и США. Заказ</name>
+        <description>ThinkPad и Legion напрямую с завода. Дешевле, чем в РФ. Доставка под ключ.</description>
+      </collection>
+
+      <collection id="col_thomann_music">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/thomann_music_sq.jpg</picture>
+        <name>Музыкальное оборудование Thomann.de в РФ</name>
+        <description>Гитары, синтезаторы, звук. Выкуп с Thomann. Надежная упаковка для хрупкого.</description>
+      </collection>
+      
+      <collection id="col_dyson_orig">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/dyson_styler_sq.jpg</picture>
+        <name>Оригинальная техника Dyson из Европы. Заказ</name>
+        <description>Стайлеры и фены Dyson. Дешевле, чем в РФ. Пришлите ссылку — доставим на дом.</description>
+      </collection>
+
+      <collection id="col_nike_dewu">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/poizon_sneakers_sq.jpg</picture>
+        <name>Кроссовки и одежда Nike. Оригинал</name>
+        <description>Выкуп Nike и других брендов. Проверка на подлинность. Доставка прямо из США и ЕС.</description>
+      </collection>
+
+      <collection id="col_macys_usa">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/macys_clothing_sq.jpg</picture>
+        <name>Одежда из Macy's США с доставкой в Россию</name>
+        <description>Бренды Calvin Klein, Ralph Lauren из Macy's. Скиньте ссылку — мы привезем.</description>
+      </collection>
+
+      <collection id="col_tommy_hilfiger">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/tommy_hilfiger_sq.jpg</picture>
+        <name>Одежда Tommy Hilfiger из США. Оригинал</name>
+        <description>Заказывайте Tommy Hilfiger на оф. сайте США. Выкуп и доставка в РФ.</description>
+      </collection>
+
+      <collection id="col_stockx_limited">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/stockx_sneakers_sq.jpg</picture>
+        <name>Лимитированные кроссовки StockX. Доставка</name>
+        <description>Yeezy, Jordan, Supreme с площадки StockX. Гарантия аутентичности.</description>
+      </collection>
+      
+      <collection id="col_zara_massimo">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/zara_massimo_sq.jpg</picture>
+        <name>Одежда Zara и Massimo Dutti с доставкой в РФ</name>
+        <description>Вернем любимые бренды! Выбирайте на евро-сайтах, кидайте ссылку — мы привезем.</description>
+      </collection>
+
+      <collection id="col_farfetch_yoox">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/farfetch_brands_sq.jpg</picture>
+        <name>Брендовая одежда с Farfetch и Yoox в Россию</name>
+        <description>Люкс и премиум бренды. Выкуп и доставка из Европы. Просто пришлите ссылку.</description>
+      </collection>
+
+      <collection id="col_skinstore_beauty">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/skinstore_beauty_sq.jpg</picture>
+        <name>Косметика SkinStore из США. Выкуп и доставка</name>
+        <description>Проф. уход за кожей. SkinCeuticals, Obagi. Пришлите ссылку — мы доставим.</description>
+      </collection>
+
+      <collection id="col_iherb_vitamins">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/iherb_vitamins_sq.jpg</picture>
+        <name>Витамины и БАДы из iHerb США в Россию</name>
+        <description>iHerb недоступен? Мы привезем! Скидывайте ссылки на корзину. Оригинал.</description>
+      </collection>
+
+      <collection id="col_sephora_beauty">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/sephora_cosmetics_sq.jpg</picture>
+        <name>Косметика Sephora и Cult Beauty. Заказ в РФ</name>
+        <description>Любимая косметика из Европы и США. Выкуп по ссылке. Бережная доставка.</description>
+      </collection>
+
+      <collection id="col_ikea_home">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/ikea_home_sq.jpg</picture>
+        <name>Товары IKEA из Европы. Доставка в РФ</name>
+        <description>Текстиль, декор, посуда IKEA. Выбирайте на сайте ЕС, присылайте ссылку.</description>
+      </collection>
+
+      <collection id="col_lego_sets">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/lego_sets_sq.jpg</picture>
+        <name>Конструкторы LEGO. Новинки из Европы и США</name>
+        <description>Эксклюзивные наборы LEGO. Дешевле, чем у перекупщиков. Доставка по ссылке.</description>
+      </collection>
+
+      <collection id="col_etsy_handmade">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/etsy_handmade_sq.jpg</picture>
+        <name>Уникальные товары с Etsy. Доставка в Россию</name>
+        <description>Винтаж и хендмейд с Etsy. Оплата за рубеж и доставка посылок в РФ.</description>
+      </collection>
+
+      <collection id="col_bonanza_market">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/bonanza_market_sq.jpg</picture>
+        <name>Покупки на Bonanza. Доставка из США</name>
+        <description>Редкие товары для дома и коллекционирования с Bonanza. Выкуп по ссылке.</description>
+      </collection>
+
+      <collection id="col_buyer_service_2">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/delivery.png</picture>
+        <name>Оплата зарубежных сервисов и покупок. Байер</name>
+        <description>Поможем оплатить товары и подписки за границей. Карты банков США и ЕС.</description>
+      </collection>
+
+      <collection id="col_buyer_service_3">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://raw.githubusercontent.com/rmzparazit/sanktion/main/img/delivery.png</picture>
+        <name>Шопинг в США и Европе без границ. Выкуп</name>
+        <description>Выбирайте в любых магазинах мира. Скиньте ссылку — мы купим и привезем.</description>
+      </collection>
+
+      <collection id="col_delivery_service_2">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/delivery_box_sq.jpg</picture>
+        <name>Пересылка посылок из США и Европы в РФ</name>
+        <description>Ваш личный адрес за рубежом. Консолидация посылок и отправка в Россию.</description>
+      </collection>
+
+      <collection id="col_delivery_service_3">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/delivery_box_sq.jpg</picture>
+        <name>Логистика из Европы и США "под ключ"</name>
+        <description>Бережная доставка товаров. Страховка, таможня, курьер до двери.</description>
+      </collection>
+
+      <collection id="col_cargo_service_2">
+        <url>https://sanktiongo.com/b2b/</url>
+        <picture>https://sanktiongo.com/img/feed/cargo_wholesale_sq.jpg</picture>
+        <name>Оптовая доставка товаров из Китая и США</name>
+        <description>Для юрлиц и селлеров. Полный пакет документов. Выгодные тарифы на вес.</description>
+      </collection>
+
+      <collection id="col_cargo_service_3">
+        <url>https://sanktiongo.com/b2b/</url>
+        <picture>https://sanktiongo.com/img/feed/cargo_wholesale_sq.jpg</picture>
+        <name>Параллельный импорт. Оборудование и товары</name>
+        <description>Везем санкционные товары и коммерческие партии. Без риска на таможне.</description>
+      </collection>
+
+      <collection id="col_amazon_buy_2">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/amazon_buy_sq.jpg</picture>
+        <name>Amazon США: товары которых нет в России</name>
+        <description>Электроника, книги, одежда с Amazon. Выкуп в 1 клик по ссылке.</description>
+      </collection>
+
+      <collection id="col_amazon_buy_3">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/amazon_buy_sq.jpg</picture>
+        <name>Заказ с Amazon с оплатой рублевой картой</name>
+        <description>Никаких сложностей с оплатой. Мы выкупаем, вы получаете товар в РФ.</description>
+      </collection>
+
+      <collection id="col_ebay_delivery_2">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/ebay_delivery_sq.jpg</picture>
+        <name>eBay: запчасти и коллекционные товары</name>
+        <description>Участие в аукционах eBay за вас. Доставка редких вещей в Россию.</description>
+      </collection>
+
+      <collection id="col_ebay_delivery_3">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/ebay_delivery_sq.jpg</picture>
+        <name>Покупки на eBay из Германии и США</name>
+        <description>Выкуп лотов eBay. Проверка товара на складе перед отправкой.</description>
+      </collection>
+
+      <collection id="col_auto_bmw_2">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/auto_bmw_parts_sq.jpg</picture>
+        <name>Запчасти BMW дешевле дилеров. Из Европы</name>
+        <description>Прямые поставки из Германии. Оригинал BMW Group. Экономия до 40%.</description>
+      </collection>
+
+      <collection id="col_auto_bmw_3">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/auto_bmw_parts_sq.jpg</picture>
+        <name>BMW: детали кузова и двигателя под заказ</name>
+        <description>Сложные узлы, оптика, электроника. Подбор по VIN. Надежная упаковка.</description>
+      </collection>
+
+      <collection id="col_carparts_usa_2">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/carparts_com_sq.jpg</picture>
+        <name>Тюнинг и запчасти для авто из США</name>
+        <description>Лифт-комплекты, свет, кузовщина. RockAuto и CarParts. Доставка.</description>
+      </collection>
+
+      <collection id="col_carparts_usa_3">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/carparts_com_sq.jpg</picture>
+        <name>Запчасти Jeep, Dodge, Ford. Оригинал</name>
+        <description>Расходники и редкие детали для "американцев". Быстрая авиадоставка.</description>
+      </collection>
+
+      <collection id="col_electro_apple_2">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/apple_devices_sq.jpg</picture>
+        <name>Новинки Apple из США. Предзаказ</name>
+        <description>iPhone, MacBook, Vision Pro. Получите первыми. Доставка за 10-14 дней.</description>
+      </collection>
+
+      <collection id="col_electro_apple_3">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/apple_devices_sq.jpg</picture>
+        <name>Техника Apple дешевле, чем в РФ</name>
+        <description>Покупайте по ценам США. Экономия на курсе. Гарантия оригинала.</description>
+      </collection>
+
+      <collection id="col_dyson_orig_2">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/dyson_styler_sq.jpg</picture>
+        <name>Dyson Airwrap и стайлеры. Из Европы</name>
+        <description>Полный комплект насадок. Европейская вилка. Оригинал 100%.</description>
+      </collection>
+
+      <collection id="col_dyson_orig_3">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/dyson_styler_sq.jpg</picture>
+        <name>Техника Dyson с официального сайта</name>
+        <description>Пылесосы, фены, выпрямители. Выкуп новинок. Доставка до двери.</description>
+      </collection>
+
+      <collection id="col_nike_dewu_2">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/poizon_sneakers_sq.jpg</picture>
+        <name>Nike Air Jordan и Dunk. Доставка</name>
+        <description>Лимитированные релизы. Выкуп со StockX и Poizon. Оригинал.</description>
+      </collection>
+
+      <collection id="col_nike_dewu_3">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/poizon_sneakers_sq.jpg</picture>
+        <name>Спортивная одежда Nike из США</name>
+        <description>Новые коллекции, которых нет в РФ. Худи, костюмы, кроссовки.</description>
+      </collection>
+
+      <collection id="col_zara_massimo_2">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/zara_massimo_sq.jpg</picture>
+        <name>ZARA и Massimo Dutti. Вернем бренды!</name>
+        <description>Заказывайте любимую одежду в Испании и Турции. Мы привезем.</description>
+      </collection>
+
+      <collection id="col_zara_massimo_3">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/zara_massimo_sq.jpg</picture>
+        <name>Одежда из Европы: ZARA, H&amp;M, Mango</name>
+        <description>Шопинг как раньше. Выкуп по ссылке. Быстрая логистика в РФ.</description>
+      </collection>
+
+      <collection id="col_tommy_hilfiger_2">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/tommy_hilfiger_sq.jpg</picture>
+        <name>Tommy Hilfiger дешевле, чем в РФ</name>
+        <description>Покупайте на сейлах в США. Экономия до 50%. Оригинал.</description>
+      </collection>
+
+      <collection id="col_tommy_hilfiger_3">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/tommy_hilfiger_sq.jpg</picture>
+        <name>Поло и свитера Tommy Hilfiger из США</name>
+        <description>Классика американского стиля. Широкий ассортимент. Доставка.</description>
+      </collection>
+
+      <collection id="col_iherb_vitamins_2">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/iherb_vitamins_sq.jpg</picture>
+        <name>iHerb: заказ витаминов в Россию</name>
+        <description>Now Foods, Solgar, Omega-3. Выкупаем вашу корзину iHerb.</description>
+      </collection>
+
+      <collection id="col_iherb_vitamins_3">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/iherb_vitamins_sq.jpg</picture>
+        <name>Спортивное питание и БАДы из США</name>
+        <description>Качественные добавки напрямую из Америки. Без посредников и наценок.</description>
+      </collection>
+
+      <collection id="col_sephora_beauty_2">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/sephora_cosmetics_sq.jpg</picture>
+        <name>Эксклюзивная косметика из Sephora</name>
+        <description>Fenty Beauty, Rare Beauty, Tarte. Бренды, ушедшие из РФ. Доставка.</description>
+      </collection>
+
+      <collection id="col_sephora_beauty_3">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/sephora_cosmetics_sq.jpg</picture>
+        <name>Парфюмерия и макияж из США и ЕС</name>
+        <description>Оригинальная косметика. Свежие сроки годности. Бережная упаковка.</description>
+      </collection>
+
+      <collection id="col_ikea_home_2">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/ikea_home_sq.jpg</picture>
+        <name>Все товары IKEA снова доступны!</name>
+        <description>Акулы, постельное белье, декор. Привезем из европейских IKEA.</description>
+      </collection>
+      
+      <collection id="col_ikea_home_3">
+        <url>https://sanktiongo.com/</url>
+        <picture>https://sanktiongo.com/img/feed/ikea_home_sq.jpg</picture>
+        <name>IKEA: мебель и мелочи для дома</name>
+        <description>Создайте уют с товарами ИКЕА. Заказ по артикулу или ссылке.</description>
+      </collection>
+    </collections>
+  </shop>
+</yml_catalog>
